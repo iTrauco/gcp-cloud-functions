@@ -1,0 +1,6 @@
+click
+google-cloud-functions
+google-cloud-storage
+google-auth
+rich
+pytest
